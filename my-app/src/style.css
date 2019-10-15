@@ -1,19 +1,31 @@
+.ui.fitted.borderless.menu {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: rgb(245, 245, 245);
+  box-shadow: none;
+  border:none;
+}
 
-.ui.borderless.topmenu.menu {
-  background-color: #f5f5f5;
+#second-menu {
+  font-family: Roboto, sans-serif;
+  background-color: white;
   box-shadow: none;
   border: none;
 }
-
-.ui.borderless.middle.menu {
-  box-shadow: none;
-  border: none;
+.ui.centered.image {
+  margin-bottom: 50px;
 }
 
+.ui.fluid.image {
+  margin-top: 20px;
+}
 
 .footer-background {
-background-color: #292929;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  background-color: #292929;
   color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.ui.big.right.labeled.input {
+  padding-top: 10px;
 }
